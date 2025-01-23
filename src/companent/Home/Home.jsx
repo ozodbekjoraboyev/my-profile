@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className=" container ">
       <div className="pt-52">
-        <h1 className=" text-center text-3xl   pb-[435px]">
+        <h1 className=" text-center text-3xl   pb-[437px]">
           Salom mening sayitimga hush kelibsiz
         </h1>
       </div>
