@@ -5,4 +5,5 @@
 .container{
     max-width: 1990px;
     margin: 0 auto;
+    background-color: rgb(7, 10, 44);
 }

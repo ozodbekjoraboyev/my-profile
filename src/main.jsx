@@ -9,7 +9,7 @@ import Contact from "./companent/Contakt/Contakt.jsx"
 import Profil from "./companent/Profil/Profil.jsx";
 
 createRoot(document.getElementById("root")).render(
-<div className=" container bg-slate-900 text-white p-3 rounded">
+<div className=" container text-white p-3 rounded">
 <BrowserRouter>
   <Nav />
   <Routes>

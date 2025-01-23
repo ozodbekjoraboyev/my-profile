@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-      <div className=" container bg-slate-900">
+      <div className=" container">
         <Home />
       
       </div>
